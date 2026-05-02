@@ -34,10 +34,10 @@ It is a zero-dependency, zero-compromise utility that trims your AI token payloa
 
 ```bash
 # via npm
-npm install meta-scalpel-v1
+npm install meta-scalpel-masq-v1
 
 # via yarn
-yarn add meta-scalpel-v1
+yarn add meta-scalpel-masq-v1
 ```
 
 ---

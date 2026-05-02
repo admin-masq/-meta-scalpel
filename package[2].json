@@ -1,0 +1,45 @@
+{
+  "name": "meta-scalpel-v1",
+  "version": "1.0.0",
+  "description": "Surgical precision for AI token metadata. Strip, clean, and compress LLM context payloads — ruthlessly.",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "llm",
+    "tokens",
+    "metadata",
+    "trim",
+    "strip",
+    "context",
+    "openai",
+    "prompt",
+    "optimization"
+  ],
+  "author": "admin-masq",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/admin-masq/meta-scalpel.git"
+  },
+  "homepage": "https://github.com/admin-masq/meta-scalpel#readme",
+  "bugs": {
+    "url": "https://github.com/admin-masq/meta-scalpel/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "devDependencies": {}
+}

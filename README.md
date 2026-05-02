@@ -3,9 +3,9 @@
 > **Surgical precision for AI token metadata.**  
 > Strip, clean, and compress LLM context payloads — ruthlessly.
 
-[![npm version](https://img.shields.io/npm/v/meta-scalpel-v1?color=6ee7b7&style=flat-square)](https://www.npmjs.com/package/meta-scalpel-v1)
-[![license](https://img.shields.io/github/license/admin-masq/meta-scalpel?color=a78bfa&style=flat-square)](https://github.com/admin-masq/meta-scalpel/blob/main/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/admin-masq/meta-scalpel/pulls)
+[![npm version](https://img.shields.io/npm/v/-meta-scalpel-v1?color=6ee7b7&style=flat-square)](https://www.npmjs.com/package/-meta-scalpel-v1)
+[![license](https://img.shields.io/github/license/admin-masq/-meta-scalpel?color=a78bfa&style=flat-square)](https://github.com/admin-masq/-meta-scalpel/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/admin-masq/-meta-scalpel/pulls)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-blue?style=flat-square&logo=node.js)](https://nodejs.org)
 
 ---
